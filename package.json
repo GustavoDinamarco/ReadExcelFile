@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.mjs"
+  },
+  "author": "Gustavo Dinamarco",
+  "license": "ISC",
+  "description": "Read Excle File in nodeJs",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "read-excel-file": "^5.8.5"
+  }
+}
